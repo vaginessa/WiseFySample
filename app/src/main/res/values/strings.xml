@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WiseFy Sample</string>
+    <string name="access_coarse_location_rationale">To search for nearby network, we need to know about your location</string>
+</resources>
